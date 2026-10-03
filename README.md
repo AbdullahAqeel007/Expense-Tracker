@@ -5,7 +5,6 @@ A simple **Python Expense Tracker** that allows users to record their daily expe
 This project was created as a beginner Python project to practice basic programming concepts.
 
 ## ✨ Features
-
 * Add a new expense
 * Enter expense description
 * Enter expense amount
